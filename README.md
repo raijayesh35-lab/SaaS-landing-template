@@ -1,3 +1,3 @@
-this is my first Gi repository 
+this is my first Git repository 
 <br>
 author Jayesh 
